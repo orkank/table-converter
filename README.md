@@ -1,2 +1,2 @@
 # table-converter
-An another tool which can convert traditional tables to various modern formats
+Tool that can convert traditional tables to various modern formats
